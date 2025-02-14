@@ -1,1 +1,111 @@
-/* Your styles here */
+main {
+  background-color: #e9edee;
+  text-align: center;
+}
+.header {
+  background-color: #222f3f;
+  padding: 0.5em;
+}
+
+.menu {
+  background-color: #364759;
+  padding: 0.5em;
+}
+
+header li {
+  display: inline;
+  padding: 0.5em;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+#logo {
+  text-align: left;
+  width: 5%;
+  padding-left: 1em;
+}
+
+.orange {
+  margin: 2em;
+  padding: 1em;
+  background-color: #f56600;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.green {
+  margin: 2em;
+  padding: 5em;
+  background-image: url("../images/bg-image.png");
+  background-size: contain;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  padding: 0.5em;
+}
+
+h3 {
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  padding: auto;
+}
+
+.image {
+  width: 500px;
+  height: 600px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  margin-left: 2em;
+  display: inline-block;
+  filter: drop-shadow(5px 5px 10px #b8b8b8);
+}
+
+.gallery {
+  background-color: white;
+  margin: 2em;
+  text-align: center;
+  align-items: center;
+}
+
+.bigimage {
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 3em;
+  padding: 25em;
+  background-image: url("../images/img_9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  margin: 0.5em;
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.blue {
+  color: #0f636d;
+  font-size: 1.5em;
+}
