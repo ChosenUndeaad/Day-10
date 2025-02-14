@@ -5,6 +5,7 @@ body {
 .header {
   background-color: #222f3f;
   padding: 0.5em;
+  text-align: left;
 }
 
 .menu {
@@ -22,7 +23,6 @@ header li {
 }
 
 #logo {
-  text-align: left;
   width: 5%;
   padding-left: 1em;
 }
